@@ -10,6 +10,8 @@ Pour cet exercice, vous n'avez pas besoin de "WiFiManager".
 
 Afin de vous facilité le travail à la maison qui sera individuel, nous vous proposons une application .Net MVC qui vous permet de simuler aussi bien le client que le serveur. La solution "M13_CoeurReacteurCSharp" se trouve à la racine de ce dossier. Pour la faire fonctionner, il faut avoir [.Net 6.0](https://dotnet.microsoft.com/en-us/download/dotnet/6.0).
 
+***N'oubliez pas de compléter le fichier "AUTHORS.md".***
+
 ## 1 - Réacteur nucléaire - Périphérique serveur
 
 Le premier montage comprend un ESP32 et une DEL rouge. Quand l'état du réacteur est "repos", la DEL rouge est éteinte. Quand l'état est "actif", la DEL rouge est allumée.
